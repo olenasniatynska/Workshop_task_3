@@ -52,3 +52,4 @@ def Random_field(n):
                         if n == 1: comp_ships_list.append(temp)
                         done = True
     return field
+# dsada
